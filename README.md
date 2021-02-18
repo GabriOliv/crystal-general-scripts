@@ -5,9 +5,9 @@ Some Crystal scripts and Shards testing
 
 #### Shards Tested:
 * /webpage
-    Webpage with [Kemal](https://github.com/kemalcr/kemal) framework;
-    Shard: https://shardbox.org/shards/kemal
-    [README](https://github.com/GabriOliv/crystal-general-scripts/blob/main/webpage/README.md)
+    * Webpage with framework [Kemal](https://github.com/kemalcr/kemal)
+    * Shard: https://shardbox.org/shards/kemal
+    * [README](https://github.com/GabriOliv/crystal-general-scripts/blob/main/webpage/README.md)
 
 ---
 
