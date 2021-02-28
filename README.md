@@ -1,4 +1,8 @@
 # crystal-general-scripts
+
+[![Crystal Version](https://img.shields.io/badge/Crystal-0.35.1-black?logo=llvm)](https://crystal-lang.org/)
+[![LLVM Version](https://img.shields.io/badge/LLVM-8.0.0-black?logo=llvm)](https://crystal-lang.org/)
+
 Some Crystal scripts and Shards testing
 
 ---
@@ -17,9 +21,7 @@ Some Crystal scripts and Shards testing
 ```sh
 git clone https://github.com/GabriOliv/crystal-general-scripts.git
 ```
-&nbsp;
 #### 2. Install Crystal [HERE](https://crystal-lang.org/install/)
-&nbsp;
 #### 3. Run Scripts
 ```sh
 crystal run -ps 001_output_term_color.cr
