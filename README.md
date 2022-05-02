@@ -1,6 +1,6 @@
 # [Crystal General Scripts](https://github.com/GabriOliv/crystal-general-scripts)
 
-[![Crystal Version](https://img.shields.io/badge/Crystal-0.35.1-black?logo=llvm)](https://crystal-lang.org/)
+[![Crystal Version](https://img.shields.io/badge/Crystal-0.35.1-black?logo=crystal)](https://crystal-lang.org/)
 [![LLVM Version](https://img.shields.io/badge/LLVM-8.0.0-black?logo=llvm)](https://crystal-lang.org/)
 
 Some Crystal scripts and Shards testing
@@ -8,10 +8,10 @@ Some Crystal scripts and Shards testing
 ---
 
 #### Shards Tested:
-* /webpage
-    * Webpage with framework [Kemal](https://github.com/kemalcr/kemal)
-    * Shard: https://shardbox.org/shards/kemal
-    * [README](https://github.com/GabriOliv/crystal-general-scripts/blob/main/webpage/README.md)
+- /webpage
+	- Webpage with framework [Kemal](https://github.com/kemalcr/kemal)
+	- Shard: https://shardbox.org/shards/kemal
+	- [README](https://github.com/GabriOliv/crystal-general-scripts/blob/main/webpage/README.md)
 
 ---
 
@@ -27,3 +27,4 @@ git clone https://github.com/GabriOliv/crystal-general-scripts.git
 crystal run -ps 001_output_term_color.cr
 ```
 
+---
